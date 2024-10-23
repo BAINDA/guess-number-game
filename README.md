@@ -2,7 +2,8 @@
 
 Welcome to **Guess My Number!** 🎉 A fun and interactive web game where you try to guess a secret number between 1 and 20. Test your luck 🍀 and see how high you can score! 🏅
 
-![Game Preview](https://github.com/user-attachments/assets/c67daf93-454e-48b3-bf49-1e19a5e1f291)
+![Game Preview](https://github.com/user-attachments/assets/e4fcb057-910c-4f12-8dba-c149138e5ab1)
+
 
 ## Play the Game 🚀
 Try it out live: [Guess My Number!](https://guessnumbergb.netlify.app/)
