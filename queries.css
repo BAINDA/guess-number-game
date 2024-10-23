@@ -1,0 +1,36 @@
+@media screen and (max-width: 715px) {
+  main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .right {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+  }
+}
+
+@media screen and (max-width: 528px) {
+  .again,
+  .between {
+    position: relative;
+    inset: 0;
+  }
+
+  header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .between {
+    padding: 10px 0;
+  }
+}
